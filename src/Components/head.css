@@ -1,0 +1,14 @@
+.head{
+    display: flex;
+    flex-direction: column;
+    background-color: black;
+    color: aquamarine;
+    justify-content: center;
+    align-items: center;
+}
+.cart-count{
+    margin: 5px;
+    background-color: black;
+    color: white;
+    border-radius: 50%;
+}

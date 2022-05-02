@@ -1,0 +1,15 @@
+.container{
+    padding: 20px;
+}
+
+.my-col{
+    padding: 10px;
+}
+
+.btn{
+    background: white;
+    color: black;
+}
+.btn:hover {
+     background: black;
+}
